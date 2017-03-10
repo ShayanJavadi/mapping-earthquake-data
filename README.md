@@ -1,3 +1,2 @@
-# DiasticMachine
-A super simple Diastic generator. Diastic is a method for generating poetry from a source text used by Jackson Mac Low.
-This challenge was created using the p5.js library. 
+# Mapping Earthquake data
+Mapping earthquakes in the past 30 days using Mapbox api and USGS earthquake api
